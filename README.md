@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivasa Dixit</h1>
-<h3 align="center">Student. Learning the application of AI</h3>
+<h3 align="center">A passionate Student learning the application of AI</h3>
 <img align='right' width="350" src="https://aiecommerce.com/wp-content/uploads/2019/02/img_3423.gif">
 
 - 🔭 I’m currently working on **Machine Learning**
